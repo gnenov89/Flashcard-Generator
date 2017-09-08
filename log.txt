@@ -1,0 +1,1 @@
+{"front":"Who is the first american president?","back":"George Washington ","type":"basic"};{"text":"What is the capital of the US?","cloze":"of the US?","clozeDeleted":"What is the capital ---------","type":"cloze"};

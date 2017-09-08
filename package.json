@@ -1,0 +1,30 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Flashcard generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"123 Tracksuit!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnenov89/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "With",
+    "feta",
+    "-",
+    "life's",
+    "betta"
+  ],
+  "author": "Georgi Nenov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnenov89/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/gnenov89/Flashcard-Generator#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "inquirer": "^3.2.3"
+  }
+}
